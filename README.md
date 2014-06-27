@@ -1,4 +1,13 @@
-crawl_domain_component
-=========================
+Domain Deep Crawling Component 
+==============================
 
-A Zillabyte Component for deep crawling a web domain
+This Zillabyte component deep crawls a given domain for its urls.
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
